@@ -1,7 +1,29 @@
-# Pastas de compilação (.NET)
+# ============================================
+# Pastas de compilação (.NET / C#)
+# ============================================
 bin/
 obj/
+[Bb]in/
+[Oo]bj/
 
-# Pastas de configuração local do Visual Studio e VS Code
+# ============================================
+# Pastas de configuração local do IDE / Editor
+# ============================================
 .vs/
 .vscode/
+
+# Configurações de usuário e preferências
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.userprefs
+
+# ============================================
+# Pacotes NuGet e Arquivos Temporários
+# ============================================
+*.nupkg
+packages/
+*.log
+*.tmp
+[Tt]emp/
