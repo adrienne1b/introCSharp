@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\bin\Debug\net10.0\MaiorElemento.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\bin\Debug\net10.0\MaiorElemento.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\bin\Debug\net10.0\MaiorElemento.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\bin\Debug\net10.0\MaiorElemento.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\bin\Debug\net10.0\MaiorElemento.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\MaiorElemento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\MaiorElemento.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\MaiorElemento.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\MaiorElemento.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\MaiorElemento.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\refint\MaiorElemento.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\MaiorElemento.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\MaiorElemento.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\ref\MaiorElemento.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MaiorElemento\MaiorElemento\obj\Debug\net10.0\MaiorEle.425DF6B4.Up2Date

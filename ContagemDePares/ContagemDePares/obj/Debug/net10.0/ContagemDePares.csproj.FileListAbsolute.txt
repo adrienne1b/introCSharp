@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\bin\Debug\net10.0\ContagemDePares.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\bin\Debug\net10.0\ContagemDePares.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\bin\Debug\net10.0\ContagemDePares.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\bin\Debug\net10.0\ContagemDePares.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\bin\Debug\net10.0\ContagemDePares.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\ContagemDePares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\ContagemDePares.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\ContagemDePares.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\ContagemDePares.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\ContagemDePares.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\refint\ContagemDePares.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\ContagemDePares.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\ContagemDePares.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\ref\ContagemDePares.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemDePares\ContagemDePares\obj\Debug\net10.0\Contagem.78F05D4D.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\bin\Debug\net10.0\VerificadorDeSenha.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\bin\Debug\net10.0\VerificadorDeSenha.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\bin\Debug\net10.0\VerificadorDeSenha.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\bin\Debug\net10.0\VerificadorDeSenha.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\bin\Debug\net10.0\VerificadorDeSenha.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\VerificadorDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\VerificadorDeSenha.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\VerificadorDeSenha.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\VerificadorDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\VerificadorDeSenha.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\refint\VerificadorDeSenha.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\VerificadorDeSenha.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\VerificadorDeSenha.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\ref\VerificadorDeSenha.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\VerificadorDeSenha\VerificadorDeSenha\obj\Debug\net10.0\Verifica.15BB762A.Up2Date

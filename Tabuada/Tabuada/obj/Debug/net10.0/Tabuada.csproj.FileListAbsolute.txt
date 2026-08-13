@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\bin\Debug\net10.0\Tabuada.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\refint\Tabuada.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\ref\Tabuada.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\Tabuada\Tabuada\obj\Debug\net10.0\Tabuada.csproj.Up2Date

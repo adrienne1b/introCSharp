@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\bin\Debug\net10.0\ContadorDeCaracteres.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\bin\Debug\net10.0\ContadorDeCaracteres.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\bin\Debug\net10.0\ContadorDeCaracteres.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\bin\Debug\net10.0\ContadorDeCaracteres.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\bin\Debug\net10.0\ContadorDeCaracteres.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\ContadorDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\ContadorDeCaracteres.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\ContadorDeCaracteres.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\ContadorDeCaracteres.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\ContadorDeCaracteres.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\refint\ContadorDeCaracteres.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\ContadorDeCaracteres.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\ContadorDeCaracteres.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\ref\ContadorDeCaracteres.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContadorDeCaracteres\ContadorDeCaracteres\obj\Debug\net10.0\Contador.9BED1B24.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\bin\Debug\net10.0\ContagemCrescente.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\bin\Debug\net10.0\ContagemCrescente.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\bin\Debug\net10.0\ContagemCrescente.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\bin\Debug\net10.0\ContagemCrescente.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\bin\Debug\net10.0\ContagemCrescente.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\ContagemCrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\ContagemCrescente.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\ContagemCrescente.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\ContagemCrescente.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\ContagemCrescente.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\refint\ContagemCrescente.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\ContagemCrescente.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\ContagemCrescente.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\ref\ContagemCrescente.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemCrescente\ContagemCrescente\obj\Debug\net10.0\Contagem.18231A52.Up2Date

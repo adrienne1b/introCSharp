@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\bin\Debug\net10.0\SomaNumerosPares.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\bin\Debug\net10.0\SomaNumerosPares.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\bin\Debug\net10.0\SomaNumerosPares.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\bin\Debug\net10.0\SomaNumerosPares.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\bin\Debug\net10.0\SomaNumerosPares.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\SomaNumerosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\SomaNumerosPares.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\SomaNumerosPares.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\SomaNumerosPares.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\SomaNumerosPares.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\refint\SomaNumerosPares.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\SomaNumerosPares.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\SomaNumerosPares.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\ref\SomaNumerosPares.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaNumerosPares\SomaNumerosPares\obj\Debug\net10.0\SomaNume.38E5B8D9.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\bin\Debug\net10.0\CalculadoraSimples.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\refint\CalculadoraSimples.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\CalculadoraSimples.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\ref\CalculadoraSimples.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CalculadoraSimples\CalculadoraSimples\obj\Debug\net10.0\Calculad.EA81DC57.Up2Date

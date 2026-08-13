@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\bin\Debug\net10.0\AntecessorSucessor.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\bin\Debug\net10.0\AntecessorSucessor.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\bin\Debug\net10.0\AntecessorSucessor.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\bin\Debug\net10.0\AntecessorSucessor.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\bin\Debug\net10.0\AntecessorSucessor.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\AntecessorSucessor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\AntecessorSucessor.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\AntecessorSucessor.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\AntecessorSucessor.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\AntecessorSucessor.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\refint\AntecessorSucessor.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\AntecessorSucessor.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\AntecessorSucessor.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\ref\AntecessorSucessor.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AntecessorSucessor\AntecessorSucessor\obj\Debug\net10.0\Antecess.142B6DA5.Up2Date

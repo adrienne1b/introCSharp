@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\bin\Debug\net10.0\OrdemInversa.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\bin\Debug\net10.0\OrdemInversa.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\bin\Debug\net10.0\OrdemInversa.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\bin\Debug\net10.0\OrdemInversa.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\bin\Debug\net10.0\OrdemInversa.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\OrdemInversa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\OrdemInversa.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\OrdemInversa.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\OrdemInversa.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\OrdemInversa.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\refint\OrdemInversa.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\OrdemInversa.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\OrdemInversa.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\ref\OrdemInversa.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\OrdemInversa\OrdemInversa\obj\Debug\net10.0\OrdemInv.66A29DAD.Up2Date

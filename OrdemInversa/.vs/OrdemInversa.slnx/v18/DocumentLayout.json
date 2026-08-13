@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Adriene\\Downloads\\CURSO DE C#\\IntroCSharp\\OrdemInversa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B181F250-991F-4ABB-AB11-92740C6F2EFB}|OrdemInversa\\OrdemInversa.csproj|c:\\users\\adriene\\downloads\\curso de c#\\introcsharp\\ordeminversa\\ordeminversa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B181F250-991F-4ABB-AB11-92740C6F2EFB}|OrdemInversa\\OrdemInversa.csproj|solutionrelative:ordeminversa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Adriene\\Downloads\\CURSO DE C#\\IntroCSharp\\OrdemInversa\\OrdemInversa\\Program.cs",
+              "RelativeDocumentMoniker": "OrdemInversa\\Program.cs",
+              "ToolTip": "C:\\Users\\Adriene\\Downloads\\CURSO DE C#\\IntroCSharp\\OrdemInversa\\OrdemInversa\\Program.cs",
+              "RelativeToolTip": "OrdemInversa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-13T18:43:34.24Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

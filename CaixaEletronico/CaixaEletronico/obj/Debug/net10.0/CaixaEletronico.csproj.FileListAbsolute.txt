@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\bin\Debug\net10.0\CaixaEletronico.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\bin\Debug\net10.0\CaixaEletronico.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\bin\Debug\net10.0\CaixaEletronico.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\bin\Debug\net10.0\CaixaEletronico.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\bin\Debug\net10.0\CaixaEletronico.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\CaixaEletronico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\CaixaEletronico.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\CaixaEletronico.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\CaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\CaixaEletronico.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\refint\CaixaEletronico.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\CaixaEletronico.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\CaixaEletronico.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\ref\CaixaEletronico.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\CaixaEletronico\CaixaEletronico\obj\Debug\net10.0\CaixaEle.3F0ED77A.Up2Date

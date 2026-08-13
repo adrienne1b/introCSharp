@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\SomaDeDoisNumeros1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\SomaDeDoisNumeros1.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\SomaDeDoisNumeros1.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\SomaDeDoisNumeros1.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\bin\Debug\net10.0\SomaDeDoisNumeros1.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\bin\Debug\net10.0\SomaDeDoisNumeros1.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\bin\Debug\net10.0\SomaDeDoisNumeros1.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\bin\Debug\net10.0\SomaDeDoisNumeros1.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\bin\Debug\net10.0\SomaDeDoisNumeros1.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\SomaDeDoisNumeros1.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\refint\SomaDeDoisNumeros1.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\SomaDeDoisNumeros1.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\SomaDeDoisNumeros1.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\ref\SomaDeDoisNumeros1.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\SomaDeDoisNumeros1\SomaDeDoisNumeros1\obj\Debug\net10.0\SomaDeDo.C9A833F4.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\bin\Debug\net10.0\JogoDeSenha.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\bin\Debug\net10.0\JogoDeSenha.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\bin\Debug\net10.0\JogoDeSenha.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\bin\Debug\net10.0\JogoDeSenha.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\bin\Debug\net10.0\JogoDeSenha.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\JogoDeSenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\JogoDeSenha.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\JogoDeSenha.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\JogoDeSenha.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\JogoDeSenha.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\refint\JogoDeSenha.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\JogoDeSenha.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\JogoDeSenha.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\ref\JogoDeSenha.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\JogoDeSenha\JogoDeSenha\obj\Debug\net10.0\JogoDeSe.A5AA0703.Up2Date

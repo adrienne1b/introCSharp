@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\AreaRetangulo.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\AreaRetangulo.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\AreaRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\bin\Debug\net10.0\AreaRetangulo.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\bin\Debug\net10.0\AreaRetangulo.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\bin\Debug\net10.0\AreaRetangulo.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\bin\Debug\net10.0\AreaRetangulo.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\bin\Debug\net10.0\AreaRetangulo.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\AreaRetangulo.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\refint\AreaRetangulo.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\AreaRetangulo.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\AreaRetangulo.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\ref\AreaRetangulo.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\AreaRetangulo\AreaRetangulo\obj\Debug\net10.0\AreaReta.CCA3E02B.Up2Date

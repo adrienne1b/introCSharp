@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\bin\Debug\net10.0\MediaVetor.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\bin\Debug\net10.0\MediaVetor.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\bin\Debug\net10.0\MediaVetor.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\bin\Debug\net10.0\MediaVetor.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\bin\Debug\net10.0\MediaVetor.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\MediaVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\MediaVetor.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\MediaVetor.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\MediaVetor.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\MediaVetor.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\refint\MediaVetor.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\MediaVetor.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\MediaVetor.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\ref\MediaVetor.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\MediaVetor\MediaVetor\obj\Debug\net10.0\MediaVetor.csproj.Up2Date

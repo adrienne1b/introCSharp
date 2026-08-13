@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "VerificadorDeSenha/1.0.0": {
+        "runtime": {
+          "VerificadorDeSenha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VerificadorDeSenha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

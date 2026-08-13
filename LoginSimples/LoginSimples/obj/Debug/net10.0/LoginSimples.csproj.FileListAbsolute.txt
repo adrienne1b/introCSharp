@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\bin\Debug\net10.0\LoginSimples.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\bin\Debug\net10.0\LoginSimples.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\bin\Debug\net10.0\LoginSimples.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\bin\Debug\net10.0\LoginSimples.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\bin\Debug\net10.0\LoginSimples.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\LoginSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\LoginSimples.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\LoginSimples.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\LoginSimples.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\LoginSimples.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\refint\LoginSimples.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\LoginSimples.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\LoginSimples.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\ref\LoginSimples.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\LoginSimples\LoginSimples\obj\Debug\net10.0\LoginSim.9F53C3C7.Up2Date

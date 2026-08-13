@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\bin\Debug\net10.0\ContagemRegressiva.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\bin\Debug\net10.0\ContagemRegressiva.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\bin\Debug\net10.0\ContagemRegressiva.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\bin\Debug\net10.0\ContagemRegressiva.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\bin\Debug\net10.0\ContagemRegressiva.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\ContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\ContagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\ContagemRegressiva.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\ContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\ContagemRegressiva.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\refint\ContagemRegressiva.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\ContagemRegressiva.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\ContagemRegressiva.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\ref\ContagemRegressiva.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\ContagemRegressiva\ContagemRegressiva\obj\Debug\net10.0\Contagem.46BF29C0.Up2Date

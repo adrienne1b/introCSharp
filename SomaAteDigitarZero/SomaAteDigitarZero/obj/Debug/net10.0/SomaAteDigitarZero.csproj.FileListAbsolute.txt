@@ -1,0 +1,15 @@
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\bin\Debug\net10.0\SomaAteDigitarZero.exe
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\bin\Debug\net10.0\SomaAteDigitarZero.deps.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\bin\Debug\net10.0\SomaAteDigitarZero.runtimeconfig.json
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\bin\Debug\net10.0\SomaAteDigitarZero.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\bin\Debug\net10.0\SomaAteDigitarZero.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\SomaAteDigitarZero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\SomaAteDigitarZero.AssemblyInfoInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\SomaAteDigitarZero.AssemblyInfo.cs
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\SomaAteDigitarZero.csproj.CoreCompileInputs.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\SomaAteDigitarZero.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\refint\SomaAteDigitarZero.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\SomaAteDigitarZero.pdb
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\SomaAteDigitarZero.genruntimeconfig.cache
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\ref\SomaAteDigitarZero.dll
+C:\Users\Adriene\Downloads\CURSO DE C#\IntroCSharp\SomaAteDigitarZero\SomaAteDigitarZero\obj\Debug\net10.0\SomaAteD.ED4C6A03.Up2Date
